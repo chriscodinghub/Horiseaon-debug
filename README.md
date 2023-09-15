@@ -16,14 +16,11 @@ I will now list all of the Debugs I completed while working on this project.
 
 
 
-<h2>Author of challengeProject1:<h2>
-<br>
+<h2>Author of challengeProject1:</h2>
 Chriscodinghub
 
-<h2>Licensing:<h2>
-<br>
-MIT license
+<h2>Licensing:</h2>
+<p>MIT license</p>
 
-<h2>Date:<h2>
-<br>
-September 15,2023
+<h2>Date:</h2>
+<p>September 15,2023</p>
