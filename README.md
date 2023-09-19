@@ -1,4 +1,4 @@
-# challengeProject1
+# Horiseon-debug
 
 Hi there! My name is Chris. This project name is Horiseon-debug.
 
