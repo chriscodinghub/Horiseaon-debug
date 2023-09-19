@@ -24,7 +24,8 @@ Chriscodinghub
 https://chriscodinghub.github.io/Horiseon-debug/
 
 <h2>Screenshots of complete application</h2>
-![Cover page of completed application](./assets/Horiseon-cover.png")
+![Horiseon-cover](https://github.com/chriscodinghub/Horiseaon-debug/assets/144561170/98ac7342-4681-4269-8110-a3c9801e6dbf)
+
 <br>
 ![Content page of completed application](./assets/Horiseon-content-page.png)
 
