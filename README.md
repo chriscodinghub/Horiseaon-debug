@@ -27,6 +27,7 @@ https://chriscodinghub.github.io/Horiseon-debug/
 ![Horiseon-content-page](https://github.com/chriscodinghub/Horiseon-debug/assets/144561170/6c9a9269-715b-466a-874b-cc6ac3e4659e)
 
 <br>
+
 ![Horiseon-cover](https://github.com/chriscodinghub/Horiseon-debug/assets/144561170/e83bf59a-a689-4347-bc50-eec7d5e7f7af)
 
 ## Licensing:
