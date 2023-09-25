@@ -27,7 +27,7 @@ https://chriscodinghub.github.io/Horiseon-debug/
 ![Horiseon-cover](https://github.com/chriscodinghub/Horiseaon-debug/assets/144561170/98ac7342-4681-4269-8110-a3c9801e6dbf)
 
 <br>
-![image](https://github.com/chriscodinghub/Horiseaon-debug/assets/144561170/63d10754-a4c5-4415-99c8-111eacccbc1b)
+![image]("C:\Users\Davis\OneDrive\Desktop\Horiseon-cover.png")
 
 <h2>Licensing:</h2>
 <p>MIT license</p>
