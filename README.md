@@ -5,7 +5,7 @@ Hi there! My name is Chris. This project name is Horiseon-debug.
 On this project I have been tasked with Debugging a webpage for Horiseon Inc.
 I will now list all of the Debugs I completed while working on this project.
 
-<h2> Debugs: </h2>
+## Debugs:
 <ol>
  <li>I updated the title of the webpage</li>
  <li>I uploaded an image file which had a section designated for it, but was not linked in. I then scaled the image to fit the browser page.</li>
@@ -17,20 +17,20 @@ I will now list all of the Debugs I completed while working on this project.
 
 
 
-<h2>Author of Horiseon-debug:</h2>
+## Author of Horiseon-debug:
 Chriscodinghub
 
-<h2> Link to application</h2>
+## Link to application
 https://chriscodinghub.github.io/Horiseon-debug/
 
-<h2>Screenshots of complete application</h2>
+## Screenshots of complete application
 ![Horiseon-content-page](https://github.com/chriscodinghub/Horiseon-debug/assets/144561170/6c9a9269-715b-466a-874b-cc6ac3e4659e)
 
 <br>
 ![image]("C:\Users\Davis\OneDrive\Desktop\Horiseon-cover.png")
 
-<h2>Licensing:</h2>
+## Licensing:
 <p>MIT license</p>
 
-<h2>Date:</h2>
-<p>September 15,2023</p>
+## Date:
+ September 15,2023
